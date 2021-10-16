@@ -1,0 +1,12 @@
+- name: QIJIC
+  displayname: 齊伋體
+  category: serif
+  subsets:
+   - cjk
+   - latin
+  style:
+    normal:
+      - filename: dist/qiji-combo
+        codes: 21037
+        weight: 400
+        xfl: true
